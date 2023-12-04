@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Abe.
-- 👀 I’m interested in writing an user-orientated website.
-- 🌱 I’m currently learning how to start the whole thing.
+- 👀 I’m interested in writing an user-oriented website.
+- 🌱 I’m currently learning C++.
 
 - 📫 Reach me via email: abex@connect.hku.hk
 
